@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "İlkDers", "İlkDers\İlkDers.csproj", "{5CEFF2A3-FE11-47E1-85C3-948D92209148}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İkinciDers", "İkinciDers\İkinciDers.csproj", "{D1AA8815-02FC-4903-A314-2A782E0B6439}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "İkinciDers", "İkinciDers\İkinciDers.csproj", "{D1AA8815-02FC-4903-A314-2A782E0B6439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ÜcüncüDers", "ÜcüncüDers\ÜcüncüDers.csproj", "{7664794D-C4A4-4E93-98B2-3A6C11EEF806}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D1AA8815-02FC-4903-A314-2A782E0B6439}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1AA8815-02FC-4903-A314-2A782E0B6439}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1AA8815-02FC-4903-A314-2A782E0B6439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7664794D-C4A4-4E93-98B2-3A6C11EEF806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7664794D-C4A4-4E93-98B2-3A6C11EEF806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7664794D-C4A4-4E93-98B2-3A6C11EEF806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7664794D-C4A4-4E93-98B2-3A6C11EEF806}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
