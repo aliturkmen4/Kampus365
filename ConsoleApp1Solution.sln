@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "İlkDers", "İlkDers\İlkDe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "İkinciDers", "İkinciDers\İkinciDers.csproj", "{D1AA8815-02FC-4903-A314-2A782E0B6439}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ÜcüncüDers", "ÜcüncüDers\ÜcüncüDers.csproj", "{7664794D-C4A4-4E93-98B2-3A6C11EEF806}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ÜcüncüDers", "ÜcüncüDers\ÜcüncüDers.csproj", "{7664794D-C4A4-4E93-98B2-3A6C11EEF806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertMethodlari", "ConvertMethodlari\ConvertMethodlari.csproj", "{D9A6D5B1-4672-4684-945E-45970DCC6AD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{7664794D-C4A4-4E93-98B2-3A6C11EEF806}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7664794D-C4A4-4E93-98B2-3A6C11EEF806}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7664794D-C4A4-4E93-98B2-3A6C11EEF806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9A6D5B1-4672-4684-945E-45970DCC6AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A6D5B1-4672-4684-945E-45970DCC6AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A6D5B1-4672-4684-945E-45970DCC6AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A6D5B1-4672-4684-945E-45970DCC6AD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
