@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AltinciDersPratik", "Altinc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParamsKeyword", "ParamsKeyword\ParamsKeyword.csproj", "{17BB7861-2CE3-4312-BD6D-51EA17080C74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveMethods", "RecursiveMethods\RecursiveMethods.csproj", "{09CD3494-0D55-4794-99B6-7F218E3E047D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{17BB7861-2CE3-4312-BD6D-51EA17080C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17BB7861-2CE3-4312-BD6D-51EA17080C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17BB7861-2CE3-4312-BD6D-51EA17080C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09CD3494-0D55-4794-99B6-7F218E3E047D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CD3494-0D55-4794-99B6-7F218E3E047D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CD3494-0D55-4794-99B6-7F218E3E047D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CD3494-0D55-4794-99B6-7F218E3E047D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
