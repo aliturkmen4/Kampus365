@@ -1,4 +1,6 @@
-﻿namespace İkinciDers
+﻿using System;
+
+namespace İkinciDers
 {
     internal class Program
     {
