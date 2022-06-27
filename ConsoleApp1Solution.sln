@@ -33,9 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassConstructorNotion", "C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1_TemelKontroller", "WinFormsApp1_TemelKontroller\WinFormsApp1_TemelKontroller.csproj", "{627E4319-6ADD-43F9-AD7B-784EEC9BC54A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelefonDefteri", "TelefonDefteri\TelefonDefteri.csproj", "{E1EAF5DB-9A09-460B-8668-19C03E7C6617}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TelefonDefteri", "TelefonDefteri\TelefonDefteri.csproj", "{E1EAF5DB-9A09-460B-8668-19C03E7C6617}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponsiveTasarım_TelefonDefteri", "ResponsiveTasarım_TelefonDefteri\ResponsiveTasarım_TelefonDefteri.csproj", "{C07A8FA9-ABDF-4B21-8FB1-74C37372F14B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResponsiveTasarım_TelefonDefteri", "ResponsiveTasarım_TelefonDefteri\ResponsiveTasarım_TelefonDefteri.csproj", "{C07A8FA9-ABDF-4B21-8FB1-74C37372F14B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_ArrayList", "WinFormsApp_ArrayList\WinFormsApp_ArrayList.csproj", "{5B506D37-0A80-4793-9F2F-9609469EC85B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{C07A8FA9-ABDF-4B21-8FB1-74C37372F14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C07A8FA9-ABDF-4B21-8FB1-74C37372F14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C07A8FA9-ABDF-4B21-8FB1-74C37372F14B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B506D37-0A80-4793-9F2F-9609469EC85B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B506D37-0A80-4793-9F2F-9609469EC85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B506D37-0A80-4793-9F2F-9609469EC85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B506D37-0A80-4793-9F2F-9609469EC85B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
