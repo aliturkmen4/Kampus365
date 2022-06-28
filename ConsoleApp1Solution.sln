@@ -37,13 +37,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TelefonDefteri", "TelefonDe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResponsiveTasarım_TelefonDefteri", "ResponsiveTasarım_TelefonDefteri\ResponsiveTasarım_TelefonDefteri.csproj", "{C07A8FA9-ABDF-4B21-8FB1-74C37372F14B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_ArrayList", "WinFormsApp_ArrayList\WinFormsApp_ArrayList.csproj", "{5B506D37-0A80-4793-9F2F-9609469EC85B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp_ArrayList", "WinFormsApp_ArrayList\WinFormsApp_ArrayList.csproj", "{5B506D37-0A80-4793-9F2F-9609469EC85B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_QueueStack", "WinFormsApp_QueueStack\WinFormsApp_QueueStack.csproj", "{1517DCD0-F3DE-438E-9790-F30EC80FD823}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp_QueueStack", "WinFormsApp_QueueStack\WinFormsApp_QueueStack.csproj", "{1517DCD0-F3DE-438E-9790-F30EC80FD823}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_GenericList", "WinFormsApp_GenericList\WinFormsApp_GenericList.csproj", "{BA7FD275-7339-4811-B926-CFFCE23ABDF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp_GenericList", "WinFormsApp_GenericList\WinFormsApp_GenericList.csproj", "{BA7FD275-7339-4811-B926-CFFCE23ABDF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_Dictionary", "WinFormsApp_Dictionary\WinFormsApp_Dictionary.csproj", "{8CBD62D7-3780-422F-8831-2036C52B8959}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp_Dictionary", "WinFormsApp_Dictionary\WinFormsApp_Dictionary.csproj", "{8CBD62D7-3780-422F-8831-2036C52B8959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_TupleNotion", "WinFormsApp_TupleNotion\WinFormsApp_TupleNotion.csproj", "{1E21C991-5DA6-43D7-B2FD-69042FD391AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{8CBD62D7-3780-422F-8831-2036C52B8959}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CBD62D7-3780-422F-8831-2036C52B8959}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CBD62D7-3780-422F-8831-2036C52B8959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E21C991-5DA6-43D7-B2FD-69042FD391AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E21C991-5DA6-43D7-B2FD-69042FD391AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E21C991-5DA6-43D7-B2FD-69042FD391AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E21C991-5DA6-43D7-B2FD-69042FD391AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
