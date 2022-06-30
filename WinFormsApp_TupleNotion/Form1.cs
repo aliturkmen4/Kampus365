@@ -25,5 +25,16 @@ namespace WinFormsApp_TupleNotion
                 MessageBox.Show($"item 1: {itm.Item1} - item 2: {itm.Item2} - item 3: {itm.Item3}"); //string interpolation
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //Tuple<int, string, bool> item2 = new Tuple<int, string, bool>(10, "Ali", true); 
+            (int Adet, string Adi, bool StoktaMi) item = (15, "Ali", false); //tuple iyileþtirilmiþ hali
+            item.Adet = 25; //klasik tuple classý readonly olduðu için bize bu imkaný saðlamaz!
+
+           Tuple<int,string,bool> item2=item.ToTuple(); //iyileþtirilmiþ tuple'ý klasik tuple a çevirme!
+
+            //item2.Item1 = 20; //sadece readonly olduðu için burada deðer atamama izin vermez!
+        }
     }
 }
