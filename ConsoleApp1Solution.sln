@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_MessageBoxWindo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_WorkingwithMuiltipleForms", "WinFormsApp_WorkingwithMuiltipleForms\WinFormsApp_WorkingwithMuiltipleForms.csproj", "{6D44FA4F-DE12-4648-9FF7-D20770653838}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_DataSharingBetweenForms", "WinFormsApp_DataSharingBetweenForms\WinFormsApp_DataSharingBetweenForms.csproj", "{46DD7ADD-EBBE-453F-B25C-C46A2F444AF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{6D44FA4F-DE12-4648-9FF7-D20770653838}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D44FA4F-DE12-4648-9FF7-D20770653838}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D44FA4F-DE12-4648-9FF7-D20770653838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46DD7ADD-EBBE-453F-B25C-C46A2F444AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46DD7ADD-EBBE-453F-B25C-C46A2F444AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46DD7ADD-EBBE-453F-B25C-C46A2F444AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46DD7ADD-EBBE-453F-B25C-C46A2F444AF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
