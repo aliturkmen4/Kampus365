@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp_GenericList", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp_Dictionary", "WinFormsApp_Dictionary\WinFormsApp_Dictionary.csproj", "{8CBD62D7-3780-422F-8831-2036C52B8959}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_TupleNotion", "WinFormsApp_TupleNotion\WinFormsApp_TupleNotion.csproj", "{1E21C991-5DA6-43D7-B2FD-69042FD391AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp_TupleNotion", "WinFormsApp_TupleNotion\WinFormsApp_TupleNotion.csproj", "{1E21C991-5DA6-43D7-B2FD-69042FD391AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_MessageBoxWindowDetails", "WinFormsApp_MessageBoxWindowDetails\WinFormsApp_MessageBoxWindowDetails.csproj", "{3597D81A-FFD2-4337-9F2B-025D2A92B419}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{1E21C991-5DA6-43D7-B2FD-69042FD391AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E21C991-5DA6-43D7-B2FD-69042FD391AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E21C991-5DA6-43D7-B2FD-69042FD391AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3597D81A-FFD2-4337-9F2B-025D2A92B419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3597D81A-FFD2-4337-9F2B-025D2A92B419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3597D81A-FFD2-4337-9F2B-025D2A92B419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3597D81A-FFD2-4337-9F2B-025D2A92B419}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
