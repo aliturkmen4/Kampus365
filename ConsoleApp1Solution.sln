@@ -49,6 +49,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp_TupleNotion", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_MessageBoxWindowDetails", "WinFormsApp_MessageBoxWindowDetails\WinFormsApp_MessageBoxWindowDetails.csproj", "{3597D81A-FFD2-4337-9F2B-025D2A92B419}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_WorkingwithMuiltipleForms", "WinFormsApp_WorkingwithMuiltipleForms\WinFormsApp_WorkingwithMuiltipleForms.csproj", "{6D44FA4F-DE12-4648-9FF7-D20770653838}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{3597D81A-FFD2-4337-9F2B-025D2A92B419}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3597D81A-FFD2-4337-9F2B-025D2A92B419}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3597D81A-FFD2-4337-9F2B-025D2A92B419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D44FA4F-DE12-4648-9FF7-D20770653838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D44FA4F-DE12-4648-9FF7-D20770653838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D44FA4F-DE12-4648-9FF7-D20770653838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D44FA4F-DE12-4648-9FF7-D20770653838}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
