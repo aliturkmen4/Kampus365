@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_WorkingwithMuil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_DataSharingBetweenForms", "WinFormsApp_DataSharingBetweenForms\WinFormsApp_DataSharingBetweenForms.csproj", "{46DD7ADD-EBBE-453F-B25C-C46A2F444AF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_RecognizeDialogWindows", "WinFormsApp_RecognizeDialogWindows\WinFormsApp_RecognizeDialogWindows.csproj", "{EA8771EF-D98F-4DA0-B3D5-0E9DFFD6CE7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{46DD7ADD-EBBE-453F-B25C-C46A2F444AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46DD7ADD-EBBE-453F-B25C-C46A2F444AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46DD7ADD-EBBE-453F-B25C-C46A2F444AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA8771EF-D98F-4DA0-B3D5-0E9DFFD6CE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8771EF-D98F-4DA0-B3D5-0E9DFFD6CE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8771EF-D98F-4DA0-B3D5-0E9DFFD6CE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8771EF-D98F-4DA0-B3D5-0E9DFFD6CE7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
