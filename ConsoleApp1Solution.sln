@@ -47,13 +47,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp_Dictionary", "W
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp_TupleNotion", "WinFormsApp_TupleNotion\WinFormsApp_TupleNotion.csproj", "{1E21C991-5DA6-43D7-B2FD-69042FD391AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_MessageBoxWindowDetails", "WinFormsApp_MessageBoxWindowDetails\WinFormsApp_MessageBoxWindowDetails.csproj", "{3597D81A-FFD2-4337-9F2B-025D2A92B419}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp_MessageBoxWindowDetails", "WinFormsApp_MessageBoxWindowDetails\WinFormsApp_MessageBoxWindowDetails.csproj", "{3597D81A-FFD2-4337-9F2B-025D2A92B419}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_WorkingwithMuiltipleForms", "WinFormsApp_WorkingwithMuiltipleForms\WinFormsApp_WorkingwithMuiltipleForms.csproj", "{6D44FA4F-DE12-4648-9FF7-D20770653838}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp_WorkingwithMuiltipleForms", "WinFormsApp_WorkingwithMuiltipleForms\WinFormsApp_WorkingwithMuiltipleForms.csproj", "{6D44FA4F-DE12-4648-9FF7-D20770653838}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_DataSharingBetweenForms", "WinFormsApp_DataSharingBetweenForms\WinFormsApp_DataSharingBetweenForms.csproj", "{46DD7ADD-EBBE-453F-B25C-C46A2F444AF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp_DataSharingBetweenForms", "WinFormsApp_DataSharingBetweenForms\WinFormsApp_DataSharingBetweenForms.csproj", "{46DD7ADD-EBBE-453F-B25C-C46A2F444AF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_RecognizeDialogWindows", "WinFormsApp_RecognizeDialogWindows\WinFormsApp_RecognizeDialogWindows.csproj", "{EA8771EF-D98F-4DA0-B3D5-0E9DFFD6CE7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp_RecognizeDialogWindows", "WinFormsApp_RecognizeDialogWindows\WinFormsApp_RecognizeDialogWindows.csproj", "{EA8771EF-D98F-4DA0-B3D5-0E9DFFD6CE7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_MDIForms", "WinFormsApp_MDIForms\WinFormsApp_MDIForms.csproj", "{CFA4AD11-F441-4091-80B3-7289923D4C67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{EA8771EF-D98F-4DA0-B3D5-0E9DFFD6CE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA8771EF-D98F-4DA0-B3D5-0E9DFFD6CE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA8771EF-D98F-4DA0-B3D5-0E9DFFD6CE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFA4AD11-F441-4091-80B3-7289923D4C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA4AD11-F441-4091-80B3-7289923D4C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA4AD11-F441-4091-80B3-7289923D4C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA4AD11-F441-4091-80B3-7289923D4C67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
