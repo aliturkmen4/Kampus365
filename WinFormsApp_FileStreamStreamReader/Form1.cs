@@ -1,4 +1,4 @@
-namespace WinFormsApp_FileStreamStreamWriter
+namespace WinFormsApp_FileStreamStreamReader
 {
     public partial class Form1 : Form
     {
@@ -27,8 +27,27 @@ namespace WinFormsApp_FileStreamStreamWriter
             streamWriter.Close(); //yazma iþlemini bitirmek için!
             stream.Close();
 
-            MessageBox.Show("Dosyaya Kaydedildi!","Ýþlem Tamamlandý!",MessageBoxButtons.OK,MessageBoxIcon.Information);
+            MessageBox.Show("Dosyaya Kaydedildi!", "Ýþlem Tamamlandý!", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            string path = Application.StartupPath + "\\dosya.txt";
+
+            FileStream stream = new FileStream(path, FileMode.Open);
+            //bu konumdaki dosya.txt yi okuyup içindekileri lstNotlar'a attým!
+
+            StreamReader reader= new StreamReader(stream);
+
+            while (reader.EndOfStream==false) //dosyanýn sonuna gelene kadar oku dedim!
+            {
+                string metin = reader.ReadLine();
+                lstNotlar.Items.Add(metin);
+            }
+
+            reader.Close();
+            stream.Close();
+        }
     }
+
 }
